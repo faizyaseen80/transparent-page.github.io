@@ -4,12 +4,11 @@
 }
 
 body{
-    background: url(../bg2.jpeg) no-repeat center center fixed;
+    background: url(./bg2.jpeg) no-repeat center center fixed;
     background-size: cover;
 }
 
 .container{
-    /* border: 2px solid black; */
     position: absolute;
     top: 40%;
     left: 40%;
@@ -30,10 +29,6 @@ body{
     border-bottom: 2px solid #d3776f;;
 }
 
-/* .box i{
-    filter: invert(100%);
-} */
-
 .box input{
     width: 75%;
     font-size: 18px;
@@ -51,7 +46,6 @@ body{
 .btn{
     cursor: pointer;
     padding: 6px 18px;
-    /* width: 25%; */
     outline: none;
     border-radius: 7px;
     margin: 8px 0px;
